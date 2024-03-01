@@ -12,3 +12,4 @@ c:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Degiskenler\obj\Debug\net8.0\
 c:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Degiskenler\obj\Debug\net8.0\Degiskenler.pdb
 c:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Degiskenler\obj\Debug\net8.0\Degiskenler.genruntimeconfig.cache
 c:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Degiskenler\obj\Debug\net8.0\ref\Degiskenler.dll
+c:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Degiskenler\obj\Debug\net8.0\Degiskenler.sourcelink.json

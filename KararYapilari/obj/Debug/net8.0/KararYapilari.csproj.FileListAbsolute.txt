@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\bin\Debug\net8.0\KararYapilari.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\bin\Debug\net8.0\KararYapilari.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\bin\Debug\net8.0\KararYapilari.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\bin\Debug\net8.0\KararYapilari.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\bin\Debug\net8.0\KararYapilari.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\refint\KararYapilari.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\KararYapilari.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\KararYapilari\obj\Debug\net8.0\ref\KararYapilari.dll

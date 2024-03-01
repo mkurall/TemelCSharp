@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Degiskenler", "Degiskenler\Degiskenler.csproj", "{06E8C8DA-AE0E-48E5-A2EF-55C95793120C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donusumler", "Donusumler\Donusumler.csproj", "{8475911F-240F-4562-A0AB-96135A36E0CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{06E8C8DA-AE0E-48E5-A2EF-55C95793120C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{06E8C8DA-AE0E-48E5-A2EF-55C95793120C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{06E8C8DA-AE0E-48E5-A2EF-55C95793120C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8475911F-240F-4562-A0AB-96135A36E0CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8475911F-240F-4562-A0AB-96135A36E0CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8475911F-240F-4562-A0AB-96135A36E0CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8475911F-240F-4562-A0AB-96135A36E0CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

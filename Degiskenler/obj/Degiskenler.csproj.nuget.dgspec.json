@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj": {}
+    "c:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj": {
+    "c:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj",
+        "projectUniqueName": "c:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj",
         "projectName": "Degiskenler",
-        "projectPath": "C:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj",
+        "projectPath": "c:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\Degiskenler.csproj",
         "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\obj\\",
+        "outputPath": "c:\\Users\\Administrator\\Desktop\\BtkKurs\\TemelCSharp\\Degiskenler\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

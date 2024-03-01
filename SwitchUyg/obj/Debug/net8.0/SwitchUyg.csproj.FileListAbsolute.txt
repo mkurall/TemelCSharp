@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\bin\Debug\net8.0\SwitchUyg.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\bin\Debug\net8.0\SwitchUyg.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\bin\Debug\net8.0\SwitchUyg.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\bin\Debug\net8.0\SwitchUyg.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\bin\Debug\net8.0\SwitchUyg.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\refint\SwitchUyg.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\SwitchUyg.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SwitchUyg\obj\Debug\net8.0\ref\SwitchUyg.dll

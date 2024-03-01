@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\bin\Debug\net8.0\Donusumler.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\bin\Debug\net8.0\Donusumler.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\bin\Debug\net8.0\Donusumler.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\bin\Debug\net8.0\Donusumler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\bin\Debug\net8.0\Donusumler.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\refint\Donusumler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\Donusumler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Donusumler\obj\Debug\net8.0\ref\Donusumler.dll
