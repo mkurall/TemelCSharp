@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\bin\Debug\net6.0\Metotlar2.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\bin\Debug\net6.0\Metotlar2.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\bin\Debug\net6.0\Metotlar2.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\bin\Debug\net6.0\Metotlar2.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\bin\Debug\net6.0\Metotlar2.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\refint\Metotlar2.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\Metotlar2.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Metotlar2\obj\Debug\net6.0\ref\Metotlar2.dll
