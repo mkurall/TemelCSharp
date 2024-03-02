@@ -42,7 +42,15 @@ do
     parola = Console.ReadLine();
     hak--;
 
-    //if (hak <= 0) break;
+    
+    if (parola == "1234") break;
 
-} while (parola != "1234" && hak > 0);
+    if (hak == 0)
+    {
+        Console.WriteLine("Hakkınız Bitti.. Parolayı bilemediniz.");
+        break;
+    }
+
+} while (true);
+
 
