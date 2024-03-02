@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\bin\Debug\net6.0\Diziler.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\bin\Debug\net6.0\Diziler.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\bin\Debug\net6.0\Diziler.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\bin\Debug\net6.0\Diziler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\bin\Debug\net6.0\Diziler.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\refint\Diziler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\Diziler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Diziler\obj\Debug\net6.0\ref\Diziler.dll
