@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HazirMetodlar/1.0.0": {
+        "dependencies": {
+          "Metotlar": "1.0.0"
+        },
+        "runtime": {
+          "HazirMetodlar.dll": {}
+        }
+      },
+      "Metotlar/1.0.0": {
+        "runtime": {
+          "Metotlar.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HazirMetodlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Metotlar/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
