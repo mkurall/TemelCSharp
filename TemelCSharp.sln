@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar2", "Metotlar2\Meto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetodlar", "HazirMetodlar\HazirMetodlar.csproj", "{CFF214A2-D9A3-4058-862F-DDCAA9834103}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiniflarVeListeler", "SiniflarVeListeler\SiniflarVeListeler.csproj", "{121E2491-7B93-4401-9B64-724C3D4EDB62}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +71,10 @@ Global
 		{CFF214A2-D9A3-4058-862F-DDCAA9834103}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFF214A2-D9A3-4058-862F-DDCAA9834103}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFF214A2-D9A3-4058-862F-DDCAA9834103}.Release|Any CPU.Build.0 = Release|Any CPU
+		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

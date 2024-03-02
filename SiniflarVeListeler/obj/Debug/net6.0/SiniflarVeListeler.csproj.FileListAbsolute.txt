@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\bin\Debug\net6.0\SiniflarVeListeler.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\bin\Debug\net6.0\SiniflarVeListeler.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\bin\Debug\net6.0\SiniflarVeListeler.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\bin\Debug\net6.0\SiniflarVeListeler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\bin\Debug\net6.0\SiniflarVeListeler.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\refint\SiniflarVeListeler.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\SiniflarVeListeler.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SiniflarVeListeler\obj\Debug\net6.0\ref\SiniflarVeListeler.dll

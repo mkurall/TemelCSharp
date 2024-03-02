@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Metotlar2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+028ab575780d7f74de4cab93816105b5de5efcb8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3331dd3b0b0b82dcdef68ae353f1be2753a9dc")]
 [assembly: System.Reflection.AssemblyProductAttribute("Metotlar2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Metotlar2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
