@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler1", "Donguler1\Dong
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SayiTahmin", "SayiTahmin\SayiTahmin.csproj", "{A7514367-1B9C-4ECD-A812-05425EB9B03A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Diziler", "Diziler\Diziler.csproj", "{998F34B6-E6DC-4CC1-92B3-5527E5363CED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.csproj", "{998F34B6-E6DC-4CC1-92B3-5527E5363CED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar", "Metotlar\Metotlar.csproj", "{69C576FD-688F-4D13-BB42-0ABC4C91D3F1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{998F34B6-E6DC-4CC1-92B3-5527E5363CED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{998F34B6-E6DC-4CC1-92B3-5527E5363CED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{998F34B6-E6DC-4CC1-92B3-5527E5363CED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69C576FD-688F-4D13-BB42-0ABC4C91D3F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69C576FD-688F-4D13-BB42-0ABC4C91D3F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69C576FD-688F-4D13-BB42-0ABC4C91D3F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69C576FD-688F-4D13-BB42-0ABC4C91D3F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
