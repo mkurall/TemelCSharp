@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\bin\Debug\net6.0\SayiTahmin.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\bin\Debug\net6.0\SayiTahmin.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\bin\Debug\net6.0\SayiTahmin.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\bin\Debug\net6.0\SayiTahmin.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\bin\Debug\net6.0\SayiTahmin.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\refint\SayiTahmin.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\SayiTahmin.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\SayiTahmin\obj\Debug\net6.0\ref\SayiTahmin.dll

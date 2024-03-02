@@ -5,6 +5,7 @@
 
 Console.WriteLine("For Döngüsü Bitti");
 //---------------------------------------------
+
 int j = 0;
 
 while (j<=10)
@@ -12,6 +13,16 @@ while (j<=10)
     Console.WriteLine(j);
     j++;
 }
+
+/*
+int j = 0;
+
+for (;j<=10;)
+{
+    Console.WriteLine(j);
+    j++;
+}
+*/
 
 Console.WriteLine("While Döngüsü Bitti");
 //---------------------------------------

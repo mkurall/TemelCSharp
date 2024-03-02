@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KararYapilari", "KararYapil
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwitchUyg", "SwitchUyg\SwitchUyg.csproj", "{93552AB4-1AE4-48C4-8D3F-23F16786B482}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Donguler1", "Donguler1\Donguler1.csproj", "{75D7CE82-E507-4648-BE7C-A22DD99B1445}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Donguler1", "Donguler1\Donguler1.csproj", "{75D7CE82-E507-4648-BE7C-A22DD99B1445}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SayiTahmin", "SayiTahmin\SayiTahmin.csproj", "{A7514367-1B9C-4ECD-A812-05425EB9B03A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{75D7CE82-E507-4648-BE7C-A22DD99B1445}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{75D7CE82-E507-4648-BE7C-A22DD99B1445}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{75D7CE82-E507-4648-BE7C-A22DD99B1445}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7514367-1B9C-4ECD-A812-05425EB9B03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7514367-1B9C-4ECD-A812-05425EB9B03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7514367-1B9C-4ECD-A812-05425EB9B03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7514367-1B9C-4ECD-A812-05425EB9B03A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

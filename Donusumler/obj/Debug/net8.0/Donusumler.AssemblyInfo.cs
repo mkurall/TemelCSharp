@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Donusumler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+032227c33b3aa84cc5c520bccfc789ea35d227df")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09f5565bb7f2fff750eb277a5629bafb7cd44d12")]
 [assembly: System.Reflection.AssemblyProductAttribute("Donusumler")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Donusumler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
