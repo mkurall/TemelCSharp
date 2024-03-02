@@ -16,3 +16,6 @@ switch(n)
     case 6: Console.Write("CUMARTESİ");break;
     default:Console.Write("Hatalı Gün!");break;
 }
+
+
+
