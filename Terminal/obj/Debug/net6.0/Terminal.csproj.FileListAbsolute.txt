@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\bin\Debug\net6.0\Terminal.exe
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\bin\Debug\net6.0\Terminal.deps.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\bin\Debug\net6.0\Terminal.runtimeconfig.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\bin\Debug\net6.0\Terminal.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\bin\Debug\net6.0\Terminal.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.AssemblyInfoInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.AssemblyInfo.cs
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.sourcelink.json
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\refint\Terminal.dll
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.pdb
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\Terminal.genruntimeconfig.cache
+C:\Users\Administrator\Desktop\BtkKurs\TemelCSharp\Terminal\obj\Debug\net6.0\ref\Terminal.dll

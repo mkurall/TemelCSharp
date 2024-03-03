@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Diziler", "Diziler\Diziler.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar", "Metotlar\Metotlar.csproj", "{69C576FD-688F-4D13-BB42-0ABC4C91D3F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Metotlar2", "Metotlar2\Metotlar2.csproj", "{A4A3A250-46EC-4E5B-A2BA-D5EBA0AD3403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Metotlar2", "Metotlar2\Metotlar2.csproj", "{A4A3A250-46EC-4E5B-A2BA-D5EBA0AD3403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HazirMetodlar", "HazirMetodlar\HazirMetodlar.csproj", "{CFF214A2-D9A3-4058-862F-DDCAA9834103}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HazirMetodlar", "HazirMetodlar\HazirMetodlar.csproj", "{CFF214A2-D9A3-4058-862F-DDCAA9834103}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SiniflarVeListeler", "SiniflarVeListeler\SiniflarVeListeler.csproj", "{121E2491-7B93-4401-9B64-724C3D4EDB62}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SiniflarVeListeler", "SiniflarVeListeler\SiniflarVeListeler.csproj", "{121E2491-7B93-4401-9B64-724C3D4EDB62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminal", "Terminal\Terminal.csproj", "{69F0795F-6615-4957-91E2-CEC70D1FB73C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{121E2491-7B93-4401-9B64-724C3D4EDB62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69F0795F-6615-4957-91E2-CEC70D1FB73C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69F0795F-6615-4957-91E2-CEC70D1FB73C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69F0795F-6615-4957-91E2-CEC70D1FB73C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69F0795F-6615-4957-91E2-CEC70D1FB73C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

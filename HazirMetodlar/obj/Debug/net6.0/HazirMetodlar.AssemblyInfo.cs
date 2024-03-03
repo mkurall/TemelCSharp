@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HazirMetodlar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d3331dd3b0b0b82dcdef68ae353f1be2753a9dc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+82360288ed013bae54fcb5b54ecd27e9cc389687")]
 [assembly: System.Reflection.AssemblyProductAttribute("HazirMetodlar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HazirMetodlar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
